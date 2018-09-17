@@ -1,4 +1,4 @@
 function myFunction() {
-Logger.log("friends");
-  
+Logger.log("frist");
+  Logger.log("second");
 }
